@@ -9,5 +9,14 @@
  
  zaskrtni policko On page load,  
  klikni na save,  
- 
+  
+  
+  
+ ted by to melo vypadat nejak takhle:  
+ ![alt_text](https://github.com/Altwer/englishme-solverrrr/blob/main/codeinjmenu.png)  
+   
+   
+   
+   
+   
  ted se ti pokazdy v englishme otevre tabulka vpavo nahore, staci otevrit nejake cviceni a kliknout na Vyresit vse (pokud bude psat ze cviceni je nerozpoznano, znovu nacti stranku
