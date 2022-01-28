@@ -1,5 +1,5 @@
 # englishme solverrrr
- Stahni si do prohlizece (pouze firefox a chrome) Code Injector rozsireni,
+ Stahni si do prohlizece (pouze firefox a chrome) Code Injector rozsireni ![alt text](),
  v pravo nahore klikni na ikonku Code Injectora,
  klikni na "Add Rule",
  do pole "URL pattern" vloz toto - "www\.englishme\.cz\/"
