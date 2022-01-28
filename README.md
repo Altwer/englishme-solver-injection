@@ -5,6 +5,7 @@
  do pole "URL pattern" vloz toto - "www\.englishme\.cz\/"
  ve velkem poli JavaScript vymaz vse a vloz toto:
  
+ [tento soubor](englishme-solverrrr/solver.js)
  
  zaskrtni policko On page load
  klikni na save
