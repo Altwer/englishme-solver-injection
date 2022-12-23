@@ -10,6 +10,7 @@
  4. insert the EnglishMe Solver code into "JavaScript" field
  5. check the "On page load" box
  6. Save 
+ 
  It should look like this:
 
 
