@@ -10,8 +10,7 @@
  4. insert the EnglishMe Solver code into "JavaScript" field
  5. check the "On page load" box
  6. Save 
- 
- \ It should look like this:
+It should look like this:
  ![alt_text](https://github.com/Altwer/englishme-solverrrr/blob/main/codeinjmenu.png)  
    
    
