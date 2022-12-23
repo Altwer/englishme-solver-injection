@@ -1,22 +1,18 @@
-# englishme solver použití
- Stahni si do prohlizece (pouze firefox a chrome) Code Injector rozsireni  
- ![alt text](https://github.com/Altwer/englishme-solverrrr/blob/main/codeinjlogo.png)  
- v pravo nahore klikni na ikonku Code Injectora,  
- klikni na "Add Rule",  
- do pole "URL pattern" vloz toto - "www\.englishme\.cz\/"  
- ve velkem poli JavaScript vymaz vse a vloz toto:  
+# EnglishMe Solver Auto-Injection
+ Download CodeInjector (only firefox and chrome) extension
+ ![alt text](https://github.com/Altwer/englishme-solverrrr/blob/main/codeinjlogo.png) 
+ 1. in the top right corner click on Code Injector icon
+ 2. click on "Add Rule"
+ 3. inside the text field, paste this reg rule: "www\.englishme\.cz\/" 
+ 4. insert the EnglishMe Solver code into "JavaScript" field
+ 5. check the "On page load" box
+ 6. Save 
  
- 
- zaskrtni policko On page load,  
- klikni na save,  
-  
-  
-  
- ted by to melo vypadat nejak takhle:  
+ /It should look like this:
  ![alt_text](https://github.com/Altwer/englishme-solverrrr/blob/main/codeinjmenu.png)  
    
    
    
    
    
- ted se ti pokazdy v englishme otevre tabulka vpavo nahore, staci otevrit nejake cviceni a kliknout na Vyresit vse (pokud bude psat ze cviceni je nerozpoznano, znovu nacti stranku
+ Now, you don't need to inject the EnglishMe Solver code every time you reload the page!
