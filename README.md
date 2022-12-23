@@ -3,7 +3,7 @@
  
  
  
- ![alt text](https://github.com/Altwer/englishme-solverrrr/blob/main/codeinjlogo.png) 
+ ![alt text](https://github.com/Altwer/englishme-solver-injection/blob/main/images/codeinjlogo.png) 
  1. in the top right corner click on Code Injector icon
  2. click on "Add Rule"
  3. inside the text field, paste this reg rule: "www\.englishme\.cz\/" 
@@ -17,5 +17,5 @@
 
 
 
- ![alt_text](https://github.com/Altwer/englishme-solverrrr/blob/main/codeinjmenu.png)  
+ ![alt_text](https://github.com/Altwer/englishme-solver-injection/blob/main/images/codeinjmenu.png)  
  Now, you don't need to inject the EnglishMe Solver code every time you reload the page!
